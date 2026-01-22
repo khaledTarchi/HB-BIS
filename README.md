@@ -1,4 +1,4 @@
-# HB-BIS - Handwriting-Based Biometric Identification System
+# Handwriting-Based Biometric Identification System
 
 ---
 
